@@ -1,1 +1,2 @@
 # testRepo
+Testing git commit
